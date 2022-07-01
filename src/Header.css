@@ -1,0 +1,17 @@
+.whiteNavbar{
+    width:100%;
+/* box-shadow: 2px 4px 15px rgba(0, 0, 0, 0.15); */
+}
+.Nav_link:hover {
+        width: auto;
+        transform: skew(-20deg);
+        background-color: red;
+        color:white;
+}
+.me-auto{
+    float:right;
+}
+
+.header-body{
+    border:1px solid blue;
+}

@@ -1,0 +1,134 @@
+.footer-body{
+    height: auto;
+    width: 100%;
+    top: 2580px;
+    background: #000000;
+    font-family: 'Poppins';
+    color:#FFFFFF;
+    padding:30px
+}
+
+.contact-info,.formData{
+    font-weight: 700;
+    font-size: 28px;
+    font-family: 'Poppins';
+    padding: 20px;
+}
+
+.footer-container{
+    display: flex;
+    color:#ffffff;
+    line-height: 22px;
+    text-align: left;
+}
+
+.icon-images{
+    width: 33px;
+    height: 33px;
+    left: 0px;
+    top: 0px;
+    background: #E50013;
+    border-radius: 5px; 
+
+}
+
+.phone-no, .contactForm, .location{
+    display: flex;
+}
+
+.location, .phone-no, .location-details{
+    padding:10px;
+}
+
+.location-details{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    width: 300px;
+    height: 45px;
+    left: 45px;
+    top: 8px;
+    display: flex;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.menuBottom, .mapData{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height */
+
+letter-spacing: 0.04em;
+
+color: #FFFFFF;
+
+}
+
+.bordery {
+    width:300px;
+    height:300px;
+    background-color: blue;
+    border-color: linear-gradient(to right, transparent 50px, red 20px),
+                      linear-gradient(to top, red 20px, red 20px),
+                      linear-gradient(to left, transparent 50px, red 20px),
+                      linear-gradient(to bottom, red 20px, red 20px);
+   
+    margin: 0 auto;
+    height: 100px;
+    width: 80%;
+  }
+
+  .footer-top{
+      display: flex;
+  }
+
+  
+
+  .company-name{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 22px;
+  }
+
+  .map-image{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    padding: 20px;
+    letter-spacing: 0.1em;
+    /* width: 350px; */
+    
+  }
+
+  
+  
+.red-div{
+    background-color: #E50013;
+    height: auto;
+    margin: 30px;
+    color:black;
+    font-size: 16px;
+    padding:20px;
+    border-radius: 4px;
+
+
+}
+
+.disclaimer{
+    color: white;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+}

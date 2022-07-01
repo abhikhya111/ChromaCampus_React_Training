@@ -1,0 +1,55 @@
+.aboutMainBanner{
+    width: 97%;
+}
+.fontSize {
+    text-align: justify;
+    font-size: 16px;
+}
+
+.fontSize2 {
+    text-align: justify;
+}
+
+.about {
+    background-color: gray;
+    width: 457.12px;
+    height: 258.34px;
+    border: 1px solid red;
+}
+
+.about:hover {
+    border: 2px solid blue;
+}
+
+.textCenter {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.textCol {
+    height: 200px;
+    }
+
+.textRowDiv{
+   text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+.navbarSec {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.imgWidth {
+    height: 78.50px;
+    /* width: 20.20px; */
+    /* height: 90.50px; */
+}
+.colorDiv {
+    background-color: gray;
+}
+
+.divCenter {
+    background-color: #F9F1F1;
+}

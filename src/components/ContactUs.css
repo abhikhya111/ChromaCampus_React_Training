@@ -1,0 +1,28 @@
+.contactDiv {
+    background-color: #fef2f3;
+}
+
+.textCenter {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+.textForm {
+    text-align: center;
+}
+
+.newDiv {
+    background-color: rgb(243, 224, 224);
+    font-size: 12px;
+    /* padding-left: 50px;
+    padding-right: 50px; */
+}
+
+
+.testing-body {
+    border: 1px solid red;
+    height: 174.62px;
+    width: 160.73px;
+}

@@ -1,0 +1,14 @@
+.navbarSec {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    /* padding-left: 80px; */
+}
+
+.navWidth {
+    width: 165px;
+}
+
+.imgWidth {
+    justify-content: center;
+}

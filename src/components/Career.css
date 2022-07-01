@@ -1,0 +1,87 @@
+.career-banner {
+    width: 100%;
+}
+
+.join-heading {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+}
+/* .textCenter {
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 80px;
+    line-height: 35px;
+} */
+
+.join-content {
+    padding-top: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: justify;
+}
+
+.opening {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 36px;
+    text-align: center;
+    /* identical to box height, or 112% */
+
+    letter-spacing: 0.05em;
+}
+
+.marketingImage {
+    position: absolute;
+    width: 105px;
+    height: 105px;
+    left: 221px;
+    top: 1112px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+}
+/* .cardBox{
+    width: '24rem';
+     boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)';
+} */
+
+.career-img {
+    align-self: center;
+    padding: 5px;
+}
+
+@media (max-width: 800px) {
+    .cards {
+        flex-direction: column;
+    }
+}
+
+.process-heading {
+    position: absolute;
+    width: 100%;
+    height: 519px;
+    background: #fef5f6;
+}
+
+.job-process {
+    text-align: center;
+    background: #fef5f6;
+}
+
+.buttonBox{
+    width: 240px;
+}
+
+@media (max-width: 800px) {
+    .flex-container {
+        flex-direction: column;
+    }
+}

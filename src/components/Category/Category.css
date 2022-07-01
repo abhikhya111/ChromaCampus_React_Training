@@ -1,0 +1,8 @@
+.categoryList{
+    display:flex;
+    flex-direction: row !important;
+}
+
+.newClass{
+    display:none
+}

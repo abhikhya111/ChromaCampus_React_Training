@@ -1,0 +1,22 @@
+
+
+
+.imgSize{
+    width: 30rem;
+    height: 18rem;
+}
+.TextJusti{
+    text-align: justify;
+}
+.outerDiv{
+    background-color: #FAEBEB;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.bgColor{
+    height: 12rem;
+    background-color: #4F4F4F;
+}
+/* .arrowIcon{
+    width: 30px;
+} */

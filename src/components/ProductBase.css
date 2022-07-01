@@ -1,0 +1,75 @@
+.ProductBase {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 24px;
+    margin-top: 20px;
+}
+
+.BannerImg {
+    width: 100%;
+    margin-left: 0;
+}
+
+.colNo {
+    border: 2px solid gray;
+    height: 520px;
+}
+
+.colImg {
+    height: 380.57px;
+}
+
+.imgWidth {
+    height: 78.50px;
+    /* width: 20.20px; */
+    /* height: 90.50px; */
+}
+
+.colWidthc {
+    border: 2px solid gray;
+    height: 550px;
+    text-align: justify;
+}
+
+.rowSec {
+    background-color: #F9F1F1;
+}
+
+.divNum {
+    background-color: rgb(167, 162, 162);
+    height: 200px;
+    width: 320px;
+}
+
+.divJust {
+    text-align: justify;
+    font-size: 15px;
+    line-height: 50px;
+}
+
+.navbarSec {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.textCenter {
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 80px;
+    line-height: 35px;
+}
+
+.btnBox {
+    width: 340px;
+    /* font-size:35px; */
+}
+
+.newDiv {
+    background-color: rgb(243, 224, 224);
+    font-size: 12px;
+    /* padding-left: 60px;
+    padding-right: 60px; */
+}
