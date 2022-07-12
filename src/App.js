@@ -3,6 +3,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import axios from 'axios';
+import Homepage from './components/Homepage';
 import Category from './components/Category';
 import SubCategory from './components/SubCategory';
 import ShowProduct from './components/ShowProduct';
@@ -30,7 +31,8 @@ export default function App() {
     <div className='app'>
       <Router>
         <Routes>
-          <Route path="/category" element={<Category />} />
+          <Route exact path="/" element={<Homepage/>} />
+          <Route path="/category" element={<Category/>} />
           <Route path="/subCategory/:id" element={<SubCategory/>}/>
           <Route path='/productBase/:id' element={<ShowProduct />} />
           <Route path="/productDetails/:id" element={<ProductDetails/>}/>

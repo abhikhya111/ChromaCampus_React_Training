@@ -1,0 +1,48 @@
+/* .HomeBanner{
+    height: 725px;
+    left: -2px;
+} */
+.imgWidthHome {
+    height: 80px;
+    width: 250px;
+}
+
+.imgWidth {
+    height: 78.50px;
+    /* width: 20.20px; */
+    /* height: 90.50px; */
+}
+
+.divCenter {
+    background-color: #F9F1F1;
+    text-align: justify;
+}
+
+.centerImgWidth {
+    width: 260.91px;
+    height: 280px;
+}
+
+.centerTextWidth {
+    width: 260.91px;
+    height: 170px;
+}
+
+.fontWidth {
+    font-weight: 450;
+    line-height: 30px;
+}
+
+.newDiv {
+    background-color: #F9F1F1;
+}
+
+.rediusDiv {
+    text-align: center;
+    background-color: rgb(245, 212, 212);
+    border-radius: 20px;
+    width: 40%;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin: auto;
+}

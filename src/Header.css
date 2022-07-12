@@ -4,14 +4,33 @@
 }
 .Nav_link:hover {
         width: auto;
+        padding:  12px;
         transform: skew(-20deg);
         background-color: red;
         color:white;
 }
-.me-auto{
-    float:right;
+.navbar-expand{
+    flex-wrap: nowrap !important;
+  }
+.imageDiv{
+    padding-top: 0 !important;
+    margin: 0 !important;
 }
 
-.header-body{
-    border:1px solid blue;
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+ }
+.mainDiv{
+    width: 10%;
+}
+.mainDivSec{
+    width: 30%;
+}
+.nav-link{
+    text-decoration: none;
+    color: white !important;
+    
 }
